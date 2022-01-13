@@ -1,5 +1,3 @@
-<p align="center"><a href="https://openswoole.com" target="_blank"><img src="https://openswoole.com/images/swoole-logo.svg" width="200"></a></p>
-
 # Open Swoole
 
 Open Swoole is a programmatic server with PHP syntax and Async IO, Coroutines and Fibers, Secure, Reliable, High performance.
