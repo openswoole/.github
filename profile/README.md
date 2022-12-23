@@ -1,6 +1,6 @@
-# Open Swoole
+# OpenSwoole
 
-Open Swoole is a programmatic server with PHP syntax and Async IO, Coroutines and Fibers, Secure, Reliable, High performance.
+OpenSwoole is a programmatic server with PHP syntax and Async IO, Coroutines and Fibers, Secure, Reliable, High performance.
 
 * [openswoole.com](https://openswoole.com) - The website of the Open Swoole project.
 * [openswoole/openswoole](https://github.com/openswoole/openswoole) - Source code for Open Swoole system
